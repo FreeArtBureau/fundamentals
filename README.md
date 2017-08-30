@@ -1,6 +1,6 @@
 # Fundamentals
 Les fondamentaux de la programmation en Processing. 
-Ceci est une collection de mini programmes pour mon cours de design algorithmique à l'ésad d'Amiens. C'est un outil pédagogique basé sur une autre collection : [https://github.com/FreeArtBureau/DesigningPrograms] Designing Programs. Je souhaitais réduire au stricte minimum le nombre de sketches pour introduire les fondamentaux : variables | fonctions | contrôles | boucles | classes
+Ceci est une collection de mini programmes pour mon cours de design algorithmique à l'ésad d'Amiens. C'est un outil pédagogique basé sur une autre collection : [https://github.com/FreeArtBureau/DesigningPrograms] (Designing Programs). Je souhaitais réduire au stricte minimum le nombre de sketches pour introduire les fondamentaux : variables | fonctions | contrôles | boucles | classes
 
 
 
