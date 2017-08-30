@@ -10,13 +10,6 @@ Une liste de ressources
 
 ### OUTILS
 
-- [Codelab Forum](http://codelab.fr/processing)
-Un forum sur Processing pour poser des questions et trouver événtuellement les réponses.
-Il y a une bonne page de ressources (tutos, livres, sites...) sur ce forum et qui se trouve [en cliquant ce lien.](http://codelab.fr/39)
-
-- [P5.js online editor](https://alpha.editor.p5js.org)
-Un éditeur de P5.js
-
 - [Sketchpad](http://p5js.sketchpad.cc/sp/account/create-account)
 Un éditeur de code collaboratif en ligne pour Processing
 
@@ -28,11 +21,18 @@ Un éditeur de texte collaboratif.
 
 - [Processing, le site officiel](https://processing.org/)
 
+- [Codelab Forum](http://codelab.fr/processing)
+Un forum sur Processing pour poser des questions et trouver événtuellement les réponses.
+Il y a une bonne page de ressources (tutos, livres, sites...) sur ce forum et qui se trouve [en cliquant ce lien.](http://codelab.fr/39)
+
 - [OpenProcessing](http://www.openprocessing.org/)
 Un site de partage de sketches
 
 - [P5.js.org](https://p5js.org/)
 Processing pour le web
+
+- [P5.js online editor](https://alpha.editor.p5js.org)
+Un éditeur de P5.js
 
 - [Apprenez à programmer en Java](https://openclassrooms.com/courses/apprenez-a-programmer-en-java)
 Un tutorial en français sur les bases de la programmation orientée objet avec Java. Plutôt bien écrit et qui explique les fondamentaux ainsi que quelques concepts plus avancés. 
@@ -45,6 +45,9 @@ Un très beau livre qui explique des mécanismes du design dit génératif.
 
 - [Floss Manuals : Processing](https://fr.flossmanuals.net/processing/introduction/)
 Un livre libre sur les bases de Processing.
+
+- [Éditeur de texte web](https://thimble.mozilla.org)
+Excellent éditeur pour écrire et tester votre code pour le web
 
 ### DES BLOGS VISUELS
 Quelques blogs qui publient des images crées avec Processing et parfois le code source aussi.
