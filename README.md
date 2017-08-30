@@ -8,7 +8,7 @@ variables | fonctions | contrôles | boucles | classes
 ## RESSOURCES
 Une liste de ressources
 
-###OUTILS
+### OUTILS
 
 - [Codelab Forum](http://codelab.fr/processing)
 Un forum sur Processing pour poser des questions et trouver événtuellement les réponses.
@@ -24,7 +24,7 @@ Un éditeur de code collaboratif en ligne pour Processing
 Un éditeur de texte collaboratif.
 
 
-###LIENS PRATIQUES
+### LIENS PRATIQUES
 
 - [Processing, le site officiel](https://processing.org/)
 
