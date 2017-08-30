@@ -1,10 +1,11 @@
 # fundamentals
 Les fondamentaux de la programmation en Processing
-[www.iterations.fabprojects.codes](http://www.iterations.fabprojects.codes/)
+
+
 
 
 ## RESSOURCES
-Une liste de ressources pour 
+Une liste de ressources
 
 ###OUTILS
 
