@@ -25,7 +25,7 @@ void draw() {
   fill(myColour);
   rect(width/2, height/2, 250, 250);
   
-  infos();
+  infos(); // afficher des infos ;–)
 }
 
 /////////////////////////// FUNCTIONS ////////////////////////////
