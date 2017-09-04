@@ -10,11 +10,14 @@
  * est une manière de prendre des décisions ; 
  * « Si ceci arrive, alors fais cela »
  * 
+ * Lire :
+ * http://www.ecole-art-aix.fr/processing-04-04-concept-no-4-les
  * https://fr.wikipedia.org/wiki/Structure_de_contrôle
+ * 
  *
  * MW_2017
  * https://github.com/FreeArtBureau/fundamentals
- * www.iterations.fabprojects.codes
+ * www.fabprojects.codes
  *
  * end
  
