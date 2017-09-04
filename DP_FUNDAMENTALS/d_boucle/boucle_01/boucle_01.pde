@@ -42,4 +42,9 @@ void draw() {
 /////////////////////////// FUNCTIONS ////////////////////////////
 void keyPressed(){
  setup(); 
+ 
+ //sauvegardons une image 
+ if(key == 's'){
+   saveFrame("Export_###.png");
+ }
 }
