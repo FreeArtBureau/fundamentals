@@ -10,8 +10,8 @@ Une liste de ressources
 
 ### OUTILS
 
-- [Sketchpad](http://p5js.sketchpad.cc/sp/account/create-account)
-Un éditeur de code collaboratif en ligne pour Processing
+- [Comprendre GitHub](http://rogerdudler.github.io/git-guide/index.fr.html)
+Petit guide sympa sur GitHub
 
 - [Hackpad : Iterations](https://iterations.hackpad.com/)
 Un éditeur de texte collaboratif.
@@ -50,12 +50,8 @@ Un livre libre sur les bases de Processing.
 Excellent éditeur pour écrire et tester votre code pour le web
 
 ### DES BLOGS VISUELS
-Quelques blogs qui publient des images crées avec Processing et parfois le code source aussi.
 
-- [http://p5art.tumblr.com/archive](http://p5art.tumblr.com/archive)
-- [http://fyprocessing.tumblr.com/](http://fyprocessing.tumblr.com/)
-- [https://beesandbombs.tumblr.com/](https://beesandbombs.tumblr.com/)
-
+À FAIRE...
 
 Pour ceux qui souhaitent suivre la création contemporaine dans ce domaine, je vous conseille fortement le site, [Creative Applications](http://www.creativeapplications.net/) (en anglais) qui est sans doute une des meilleures références en ligne. Il existe également [la revue Holo](http://www.creativeapplications.net/holo/) pour ceux qui aiment lire 'en dur' ;–)
 
