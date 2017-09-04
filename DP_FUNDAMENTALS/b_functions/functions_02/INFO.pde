@@ -10,7 +10,7 @@
  *
  * MW_2016
  * https://github.com/FreeArtBureau/fundamentals
- * www.iterations.fabprojects.codes
+ * www.fabprojects.codes
  *
  * end
  
