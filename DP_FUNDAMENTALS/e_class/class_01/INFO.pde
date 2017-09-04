@@ -7,9 +7,9 @@
  *  Ce sketch démontre la structure d'une classe
  * 
  *  Lire :
- *  
+ *  https://fr.flossmanuals.net/processing/les-objets/
+ *  http://www.ecole-art-aix.fr/processing-14-0-Programmation
  *
- *  Lire aussi sur le concept de l'itération en général
  *  
  * 
  *
