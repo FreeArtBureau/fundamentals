@@ -1,3 +1,10 @@
+/**
+ * !! IMPORTANT !!
+ * Notez bien le mot clé 'var' qui remplace les mots clés int/float/String...
+ * JavaScript est un langage qui nécéssite pas de typage - type de données
+ * Lire plus : https://openclassrooms.com/courses/le-typage-presentation-thematique-et-historique
+ *
+ */
 
 var x = 50;
 var y = 253.078;
@@ -19,7 +26,7 @@ function setup() {
 function draw() {
   background(33);
 
-  textSize(200);
+  textSize(273);
   if(afficher) {
     maCouleur = color(0,0,255);
     fill(maCouleur);
@@ -27,7 +34,7 @@ function draw() {
   }else {
     maCouleur = color(255,200,0);
     fill(maCouleur);
-    text(letter, x, y);
+    text(lettre, x, y);
   }
 
   textSize(24);
@@ -36,7 +43,10 @@ function draw() {
 }
 
 /////////////////////////// FUNCTIONS ////////////////////////////
-function keyPressed(){
+// nous utilisons keyTyped à la place de keyPressed() lorsqu'on veut
+// tester si l'on appuie sur une touche particulière du clavier.
+// voir REF : https://p5js.org/reference/#/p5/keyTyped
+function keyTyped(){
   if(key == 'b') {
     afficher = !afficher;
     console.log(afficher);

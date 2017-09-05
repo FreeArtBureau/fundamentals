@@ -10,7 +10,7 @@
 /////////////////////////// SETUP ////////////////////////////
 
 void setup() {
-  size(400, 400);
+  size(680, 360);
   background(33);
   smooth();
   noStroke();
@@ -22,14 +22,18 @@ void draw() {
   fill(0, 0, 255);
 
   // On fait appel à nos 2 fonctions : oscillate & croix
-  float taille = oscillate(300);
-  croix(width/2, height/2, taille);
+  float taille = oscillate(0.015, 150);
+  croix(200, height/2, taille);
+  
+  float taille2 = oscillate(0.030, 300);
+  fill(255,200,0);
+  croix(450, height/2, taille2);
 }
 
 /////////////////////////// FUNCTIONS ////////////////////////////
 // Voici notre nouvelle fonction qui retourne une valeur
-float oscillate(float _valMax) {
-  float val = sin(frameCount*0.015) * _valMax;
+float oscillate(float _freq, float _valMax) {
+  float val = sin(frameCount*_freq) * _valMax;
   return val;
 }
 
