@@ -1,6 +1,6 @@
 # Fundamentals
 Les fondamentaux de la programmation en Processing. 
-Ceci est une collection de mini programmes pour mon cours de design algorithmique à l'ésad d'Amiens. C'est un outil pédagogique basé sur une autre collection : [Designing Programs](https://github.com/FreeArtBureau/DesigningPrograms). Je souhaitais réduire au stricte minimum le nombre de sketches pour introduire les fondamentaux : 
+Ceci est une collection de mini programmes pour mon cours du design algorithmique à l'ésad d'Amiens. C'est un outil pédagogique basé sur une autre collection : [Designing Programs](https://github.com/FreeArtBureau/DesigningPrograms). Je souhaitais réduire au stricte minimum le nombre de sketches pour introduire les fondamentaux : 
 variables | fonctions | contrôles | boucles | classes
 
 
@@ -54,5 +54,12 @@ Excellent éditeur pour écrire et tester votre code pour le web
 À FAIRE...
 
 Pour ceux qui souhaitent suivre la création contemporaine dans ce domaine, je vous conseille fortement le site, [Creative Applications](http://www.creativeapplications.net/) (en anglais) qui est sans doute une des meilleures références en ligne. Il existe également [la revue Holo](http://www.creativeapplications.net/holo/) pour ceux qui aiment lire 'en dur' ;–)
+
+# Exemples P5.js
+
+- [Explore](https://freeartbureau.github.io/fundamentals/)
+Voici un site de test pour voir les exemples en javaScript.
+
+
 
 
