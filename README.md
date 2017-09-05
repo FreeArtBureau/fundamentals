@@ -13,8 +13,9 @@ Une liste de ressources
 - [Comprendre GitHub](http://rogerdudler.github.io/git-guide/index.fr.html)
 Petit guide sympa sur GitHub
 
-- [Hackpad : Iterations](https://iterations.hackpad.com/)
-Un éditeur de texte collaboratif.
+- [Slack](https://slack.com)
+Plateforme de collaboration > chat++ ;–)
+[Lire ce guide](https://get.slack.help/hc/fr-fr)
 
 
 ### LIENS PRATIQUES
