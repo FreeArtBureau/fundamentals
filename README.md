@@ -35,6 +35,9 @@ Processing pour le web
 - [P5.js online editor](https://alpha.editor.p5js.org)
 Un éditeur de P5.js
 
+- [Processing > P5.js](http://faculty.purchase.edu/joseph.mckay/p5jsconverter.html)
+Convertir des lignes de code écrites en Processing vers P5.js. 
+
 - [Apprenez à programmer en Java](https://openclassrooms.com/courses/apprenez-a-programmer-en-java)
 Un tutorial en français sur les bases de la programmation orientée objet avec Java. Plutôt bien écrit et qui explique les fondamentaux ainsi que quelques concepts plus avancés. 
 
