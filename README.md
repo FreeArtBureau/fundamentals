@@ -13,17 +13,10 @@ Voici un site de test pour voir les exemples en javaScript.
 ## RESSOURCES
 Une liste de ressources
 
-### OUTILS
+### OUTILS & LIENS PRATIQUES
 
-- [Slack](https://slack.com)
-Plateforme de collaboration > chat++ ;–)
-[Lire ce guide](https://get.slack.help/hc/fr-fr)
-
-- [Comprendre GitHub](http://rogerdudler.github.io/git-guide/index.fr.html)
-Petit guide sympa sur GitHub
-
-
-### LIENS PRATIQUES
+- [Atom](https://atom.io/)
+  Éditeur de texte par excellence. 
 
 - [Processing, le site officiel](https://processing.org/)
 
@@ -57,6 +50,14 @@ Un livre libre sur les bases de Processing.
 
 - [Éditeur de texte web](https://thimble.mozilla.org)
 Excellent éditeur pour écrire et tester votre code pour le web
+
+- [Slack](https://slack.com)
+Plateforme de collaboration > chat++ ;–)
+[Lire ce guide](https://get.slack.help/hc/fr-fr)
+
+- [Comprendre GitHub](http://rogerdudler.github.io/git-guide/index.fr.html)
+Petit guide sympa sur GitHub
+
 
 ### DES BLOGS VISUELS
 
