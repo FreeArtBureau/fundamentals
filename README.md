@@ -4,6 +4,11 @@ Ceci est une collection de mini programmes pour mon cours du design algorithmiqu
 variables | fonctions | contrôles | boucles | classes
 
 
+# Exemples P5.js
+
+- [Explore](https://freeartbureau.github.io/DP_000/)
+Voici un site de test pour voir les exemples en javaScript.
+
 
 ## RESSOURCES
 Une liste de ressources
@@ -58,11 +63,6 @@ Excellent éditeur pour écrire et tester votre code pour le web
 À FAIRE...
 
 Pour ceux qui souhaitent suivre la création contemporaine dans ce domaine, je vous conseille fortement le site, [Creative Applications](http://www.creativeapplications.net/) (en anglais) qui est sans doute une des meilleures références en ligne. Il existe également [la revue Holo](http://www.creativeapplications.net/holo/) pour ceux qui aiment lire 'en dur' ;–)
-
-# Exemples P5.js
-
-- [Explore](https://freeartbureau.github.io/DP_000/)
-Voici un site de test pour voir les exemples en javaScript.
 
 
 
